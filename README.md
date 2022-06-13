@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vjeganat
+- 👀 I’m interested in developing GPU codes
+- 🌱 I’m currently learning GPU programming and some ML
+- 💞️ I’m looking to collaborate on CFD problems
+- 📫 How to reach me vigneshjeganathan94@gmaill.com
